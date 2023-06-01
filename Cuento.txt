@@ -2,7 +2,7 @@
     Seran asignados en el servidor de discord, para poder llenar los espacios y hacer un "merge-request".
     buenos estudios.//
     ___________________________________________________________________________________________________________________________________
-"Había una vez un/a intrépido/a aventurero/a llamado/a __________ (nombre del personaje). 
+"Había una vez un intrépido aventurero llamado Scooby. 
 Su apariencia era __________ (descripción física detallada), con ojos brillantes y una sonrisa encantadora. 
 Todos los días, le encantaba __________ (actividad favorita) y 
 se deleitaba en explorar los rincones más remotos del mundo en busca de emociones y descubrimientos.
