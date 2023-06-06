@@ -1,0 +1,53 @@
+{
+  "equipo": "deb boot camp",
+  "integrantes": [
+    {
+      "nombre": "Integrante 1",
+      "direccion": "Dirección 1"
+    },
+    {
+      "nombre": "Integrante 2",
+      "direccion": "Dirección 2"
+    },
+    {
+      "nombre": "Integrante 3",
+      "direccion": "Dirección 3"
+    },
+    {
+      "nombre": "Integrante 4",
+      "direccion": "Dirección 4"
+    },
+    {
+      "nombre": "Integrante 5",
+      "direccion": "Dirección 5"
+    },
+    {
+      "nombre": "Integrante 6",
+      "direccion": "Dirección 6"
+    },
+    {
+      "nombre": "Integrante 7",
+      "direccion": "Dirección 7"
+    },
+    {
+      "nombre": "Integrante 8",
+      "direccion": "Dirección 8"
+    },
+    {
+      "nombre": "Integrante 9",
+      "direccion": "Dirección 9"
+    },
+    {
+      "nombre": "Integrante 10",
+      "direccion": "Dirección 10"
+    },
+    {
+      "nombre": "Integrante 11",
+      "direccion": "Dirección 11"
+    },
+    {
+      "nombre": "Integrante 12",
+      "direccion": "Dirección 12"
+    }
+  ]
+}
